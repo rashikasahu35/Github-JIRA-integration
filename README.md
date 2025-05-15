@@ -1,4 +1,4 @@
-## Github-JIRA intergration Project
+## Github-JIRA integration Project
 
 ### Overview
 This project provides an automated solution to create JIRA tickets from GitHub issues using webhooks. When a user comments "/jira" on a GitHub issue, this application creates a corresponding ticket in JIRA with all relevant information.
