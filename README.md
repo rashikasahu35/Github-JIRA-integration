@@ -9,3 +9,7 @@ This project provides an automated solution to create JIRA tickets from GitHub i
 3. Extracting issue details (title, description, repository info, etc.)
 4. Creating a formatted JIRA ticket via the Atlassian REST API
 
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/470c3f85-b809-4d66-bbaa-0318c6c05903">
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/d15f4bbb-a70e-48d9-92c1-07b01d0f9152">
+
