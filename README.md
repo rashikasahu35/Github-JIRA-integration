@@ -13,3 +13,12 @@ This project provides an automated solution to create JIRA tickets from GitHub i
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/d15f4bbb-a70e-48d9-92c1-07b01d0f9152">
 
+### Architecture
+
+1. Backend: Python Flask application
+2. Infrastructure: AWS EC2 instance
+3. APIs: GitHub Webhooks and JIRA REST API
+4. Authentication: JIRA API token-based authentication
+
+
+
